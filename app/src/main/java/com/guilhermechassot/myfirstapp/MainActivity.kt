@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
             val height2 = (height * height)
             val resultado = weight / height2
             
-            println("Gui acao do botao" + resultado)
+            println("Gui acao do botao" + resultado + "gui")
 
 
 
